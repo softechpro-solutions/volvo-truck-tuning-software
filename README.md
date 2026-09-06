@@ -16,7 +16,7 @@
 EMS2.x, TRW EMS and Lucas/Delphi — Euro 3–6 remap and emissions solutions.
 
 ## Supported brands & ECUs
-Scania, MAN, Volvo, DAF, Iveco, Mercedes-Benz, New Holland, Fendt, Valtra, Deutz, Detroit Diesel, MaxxForce (Navistar), Isuzu, Cummins and more — Bosch **EDC7 / EDC16 / EDC17**, Scania **S6 (Motorola)**, Delphi, **TRW EMS**, Continental/Temic **EMS2.1 / EMS2.2**, Detroit **DDEC10**, Cummins **CM2xxx**, Navistar **SID904**.
+Case IH, Claas, DAF, Deutz, Doosan, Fendt, Ford, Hitachi, Isuzu, Iveco, John Deere, Kato, Kobelco, Komatsu, Kramer, Kubota, Lannen, MAN Trucks, Manitou, Marot, Mercedes-Benz Trucks, Merlo, Mitsubishi, Mitsubishi Fuso, Navistar, New Holland, Renault Trucks, Scania, Valtra, Volvo Trucks, Yanmar, Zetor and more — Bosch **EDC7 / EDC16 / EDC17**, Scania **S6 (Motorola)**, Delphi, **TRW EMS**, Continental/Temic **EMS2.1 / EMS2.2**, Detroit **DDEC10**, Cummins **CM2xxx**, Navistar **SID904**.
 
 - 📋 **Full supported-ECU list:** <https://www.softechpro-solutions.com/trucks/ecu-database.html>
 - 📥 **Download the PDF:** <https://www.softechpro-solutions.com/trucks/Softechpro_Trucks_Supported_ECU_List.pdf>
