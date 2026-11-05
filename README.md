@@ -1,28 +1,75 @@
-# Volvo Truck Tuning Software — FH / FM / FE ECU Remapping
+# Volvo Truck & Construction ECU Tuning (FH / FM / FMX / EMS2) — Softechpro Trucks (v2.0.4)
 
-**Volvo truck ECU tuning** for FH, FM, FE and buses — Continental/Temic EMS2.1/EMS2.2, TRW and Delphi ECUs — Stage tuning and DPF/EGR/AdBlue/DTC off.
+[![Softechpro Trucks](https://img.shields.io/badge/Official_Trucks_Suite-softechpro--solutions.com%2Ftrucks-ff9100?style=for-the-badge)](https://www.softechpro-solutions.com/trucks/)
+[![Live Heavy-Duty Coverage](https://img.shields.io/badge/24V_Coverage-82_Brands_%C2%B7_452%2B_ECUs-00e676?style=for-the-badge)](https://softechpro-solutions.github.io/trucks-supported-ecus.html)
 
-**[Softechpro Trucks](https://www.softechpro-solutions.com/trucks/)** is a professional **ECU tuning & remapping platform for trucks, buses, agricultural and industrial machines**. Read the ECU, apply the change you need, and flash back a ready-to-use file with **automatic checksum & CVN correction** — no WinOLS, no external checksum tools.
+Automated **Volvo FH, FM, FMX, FE, FL & Volvo CE** calibration for **TRW/Continental EMS2.1, EMS2.2, EMS2.3, EMS2.4 & ACM** — AdBlue/SCR Off, DPF Off, EGR Off, DTC Off & Stage 1.
 
-## What we do
-- **DPF off / DPF delete** for trucks and off-highway machines
-- **EGR off / EGR delete**
-- **AdBlue / SCR / NOx off** (Euro 4/5/6)
-- **DTC off** (fault-code removal)
-- **Stage 1 / Stage 2 / Stage 3** performance tuning
-- **VMAX / speed-limiter** and torque-monitor adjustments
+## 🚛 Heavy-Duty 12V / 24V Engineering Capabilities (v2.0.4 — Windows & macOS)
 
-## Volvo coverage
-EMS2.x, TRW EMS and Lucas/Delphi — Euro 3–6 remap and emissions solutions.
+- **Commercial Aftertreatment & Diagnostics:** Euro 3 / Euro 4 / Euro 5 / Euro 6 **AdBlue / SCR / DEF Off** (incl. ACM / DCU dosing modules), **DPF Off**, **EGR Off**, **NOx Torque Limiter / Derate Off**, and **Multi-DTC Removal**.
+- **Fleet Power & Torque Calibration:** Heavy-duty Stage 1 Eco-Torque & Power calibration, VMAX speed limiter adjustment, and automatic checksum/CVN verification.
+- **Supported Heavy-Duty Controllers:** Bosch EDC7C1 / EDC7C32 / EDC7UC31 / EDC17CV41 / EDC17CV42 / EDC17CV44 / EDC17CV52 / EDC17CP52 / MD1CE100 / MD1CE101, Scania EMS S6 / S7 / S8, Volvo/Renault TRW EMS2.1 / EMS2.2 / EMS2.3 / EMS2.4, Paccar/DAF Delphi DMCI / ETC3, Continental MCM / ACM, Cummins CM850 / CM2150 / CM2350, John Deere Phoenix, Caterpillar ADEM.
 
-## Supported brands & ECUs
-Aebi Schmidt, Agco, Agrale, Ahwi, Atlas, Bell, Bomag, Case IH, Caterpillar, Challenger, Claas, Cobus, Cummins, DAF, Detroit, Deutz, Deutz-Fahr, Dongfeng, Doosan, Fendt, Ford Trucks, Fpt Industrial, Freightliner, Fuchs, Hidromek, Hino, Hitachi, Hurlimann, International, Isuzu, Iveco, Jcb, John Deere, Kaessbohrer, Kato, Kenworth, King Long, Kioti, Kobelco, Komatsu, Kramer, Kubota, Lamborghini Trattori, Lannen, Macdon, Mack, MAN Trucks, Manitou, Marot, Massey Ferguson, Maxxforce, Mercedes-Benz Trucks, Merlo, Mitsubishi Fuso, Mtz, Mullins, Multicar, Navistar, New Holland, Otocar Bus, Perkins, Qmatec, Ram Trucks, Renault Trucks, Rottne, Same, Scania, Setra, Sisu, Sterling, Steyr, Tadano, Takeuchi, Toyota Dyna, UD TRUCKS, Valtra, Vermeer, Volkswagen Trucks, Volvo Trucks, Yanmar, Yto Motor, Zetor and more — Bosch **EDC7 / EDC16 / EDC17**, Scania **S6 (Motorola)**, Delphi, **TRW EMS**, Continental/Temic **EMS2.1 / EMS2.2**, Detroit **DDEC10**, Cummins **CM2xxx**, Navistar **SID904**.
+## 📋 Verified Brand & ECU Matrix
 
-- 📋 **Full supported-ECU list:** <https://www.softechpro-solutions.com/trucks/ecu-database.html>
-- 📥 **Download the PDF:** <https://www.softechpro-solutions.com/trucks/Softechpro_Trucks_Supported_ECU_List.pdf>
-- 🌐 **Platform:** <https://www.softechpro-solutions.com/trucks/>
+| Brand / Manufacturer | Supported ECUs | Sample Controller Families |
+| :--- | :---: | :--- |
+| **AEBI SCHMIDT** | 0 |  |
+| **AGCO** | 0 |  |
+| **AGRALE** | 0 |  |
+| **AHWI** | 0 |  |
+| **ATLAS** | 0 |  |
+| **BELL** | 0 |  |
+| **BOMAG** | 0 |  |
+| **CASE IH** | 0 |  |
+| **CATERPILLAR** | 0 |  |
+| **CHALLENGER** | 0 |  |
+| **CLAAS** | 0 |  |
+| **COBUS** | 0 |  |
+| **CUMMINS** | 0 |  |
+| **DAF** | 0 |  |
+| **DETROIT** | 0 |  |
+| **DEUTZ** | 0 |  |
+| **DEUTZ-FAHR** | 0 |  |
+| **DONGFENG** | 0 |  |
+| **DOOSAN** | 0 |  |
+| **FENDT** | 0 |  |
+| **FORD TRUCKS** | 0 |  |
+| **FPT INDUSTRIAL** | 0 |  |
+| **FREIGHTLINER** | 0 |  |
+| **FUCHS** | 0 |  |
+| **HIDROMEK** | 0 |  |
+| **HINO** | 0 |  |
+| **HITACHI** | 0 |  |
+| **HURLIMANN** | 0 |  |
+| **INTERNATIONAL** | 0 |  |
+| **ISUZU** | 0 |  |
+| **IVECO** | 0 |  |
+| **JCB** | 0 |  |
+| **JOHN DEERE** | 0 |  |
+| **KAESSBOHRER** | 0 |  |
+| **KATO** | 0 |  |
 
-> Missing your ECU? Send us the original read and we add it — coverage grows every week.
+## 💼 Softechpro Trucks Licensing ([www.softechpro-solutions.com/trucks/](https://www.softechpro-solutions.com/trucks/))
+
+- **24H Pass:** €199/day · **Workshop:** €349/mo (10 patches/day) · **Pro:** €499/mo (15 patches/day + 1 credit/mo) · **Elite:** €699/mo (25 patches/day + 1 credit/mo, 24/7 priority) · **Fleet:** €999/mo · **Annual Pro:** €4,999/yr.
+
 
 ---
-*SOFTTECHPRO SOLUTIONS LLC — professional truck & agricultural ECU tuning software.*
+
+### ⚠️ Mandatory 100% Virgin Original ECU File Standard
+
+- **Virgin Stock Reads Only:** Always perform a **Full Backup** before writing and upload strictly **100% virgin, original unmodified ECU files** read directly from the control unit. Previously modified files prevent accurate calibration matching.
+- **Free Coverage Preview:** Verify your exact ECU readout coverage online for free at **[www.softechpro-solutions.com](https://www.softechpro-solutions.com/)** before processing.
+
+### 🔗 Official Softechpro Solutions Portals
+
+- 🌐 **Cars & Light Vans Suite (v2.0.4 — Windows & macOS):** **[www.softechpro-solutions.com](https://www.softechpro-solutions.com/)**
+- 🚛 **Trucks, Agriculture & Construction 12V/24V Suite (v2.0.4):** **[www.softechpro-solutions.com/trucks/](https://www.softechpro-solutions.com/trucks/)**
+- 🔌 **Dealer & Developer B2B REST API:** **[www.softechpro-solutions.com/developers](https://www.softechpro-solutions.com/developers)**
+- 📘 **Developer & Open ECU Catalog Hub:** **[softechpro-solutions.github.io](https://softechpro-solutions.github.io/)**
+- 📺 **Official YouTube Channel:** **[youtube.com/@Softechpro-Solutions-com](https://www.youtube.com/@Softechpro-Solutions-com)**
+- 📄 **Download Printable Trucks ECU List (PDF):** **[Softechpro_Trucks_Supported_ECU_List.pdf](https://www.softechpro-solutions.com/trucks/Softechpro_Trucks_Supported_ECU_List.pdf)**
+
+*Maintained by the Softechpro Engineering Team — SOFTTECHPRO SOLUTIONS LLC.*
