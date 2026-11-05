@@ -1,7 +1,9 @@
 {
   "software": "Softechpro Trucks v2.0.4",
   "repository": "volvo-truck-tuning-software",
+  "title": "Volvo Truck & Construction ECU Tuning (FH / FM / FMX / EMS2)",
   "official_url": "https://www.softechpro-solutions.com/trucks/",
-  "matched_ecus": 0,
-  "coverage": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/volvo-truck-tuning-software/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
